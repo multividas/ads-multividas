@@ -1,6 +1,6 @@
 <template>
   <Main>
-    <header class="mv-header mv-header-bg px-0 px-sm-4">
+    <header class="mv-header mv-header-bg px-3 px-sm-4">
       <h1 class="fw-bold text-primary">Multividas Ads</h1>
       <h4 class="fw-bold text-muted my-2">
         Scale your business with Multividas Ads
