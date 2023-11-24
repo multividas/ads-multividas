@@ -36,4 +36,9 @@ jobs:
         run: npm install --global @gridsome/cli
 
       - name: Build static
-        run : gridsome build && touch dist/.nojekyll && touch dist/favicon.ico
+        run : |
+          npm run format
+          npm run lint
+          gridsome build
+          touch dist/.nojekyll
+          touch dist/favicon.ico

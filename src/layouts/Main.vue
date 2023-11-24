@@ -1,7 +1,7 @@
 <template>
   <div class="d-flex flex-column min-vh-100">
     <header class="app-header sticky-top">
-      <Navbar></Navbar>
+      <NavbarLayout />
     </header>
     <div class="app-container">
       <div class="col-md-12">
@@ -9,7 +9,7 @@
       </div>
     </div>
     <footer class="app-footer">
-      <Footer></Footer>
+      <FooterLayout />
     </footer>
   </div>
 </template>
@@ -22,5 +22,4 @@ query {
 }
 </static-query>
 
-<style scoped>
-</style>
+<style scoped></style>

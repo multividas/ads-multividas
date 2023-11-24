@@ -6,24 +6,16 @@
           <h5 class="footer-section-title fw-bold mb-3 cp">Multividas</h5>
           <ul class="footer-links">
             <li>
-              <a href="https://status.multividas.com" target="_blank"
-                >Status</a
-              >
+              <a href="https://status.multividas.com" target="_blank">Status</a>
             </li>
             <li>
-              <a href="https://about.multividas.com/resources/accessibility"
-                >Accessibility</a
-              >
+              <a href="https://about.multividas.com/resources/accessibility">Accessibility</a>
             </li>
             <li>
-              <a href="https://about.multividas.com/resources/transparency"
-                >Transparency</a
-              >
+              <a href="https://about.multividas.com/resources/transparency">Transparency</a>
             </li>
             <li>
-              <a href="https://www.multividas.com" target="_blank"
-                >Multividas.com</a
-              >
+              <a href="https://www.multividas.com" target="_blank">Multividas.com</a>
             </li>
           </ul>
         </div>
@@ -31,14 +23,10 @@
           <h5 class="footer-section-title fw-bold mb-3 cp">Contact us</h5>
           <ul class="footer-links">
             <li>
-              <a href="https://multividas.com/contact-us" target="_blank"
-                >Contact Page</a
-              >
+              <a href="https://multividas.com/contact-us" target="_blank">Contact Page</a>
             </li>
             <li>
-              <a href="https://help.multividas.com" target="_blank"
-                >Help Center</a
-              >
+              <a href="https://help.multividas.com" target="_blank">Help Center</a>
             </li>
           </ul>
         </div>
@@ -46,25 +34,16 @@
           <h5 class="footer-section-title fw-bold mb-3 cp">Resources</h5>
           <ul class="footer-links">
             <li>
-              <a
-                href="https://multividas.com/investor-relations"
-                target="_blank"
-                >Investor Relations</a
-              >
+              <a href="https://multividas.com/investor-relations" target="_blank">Investor Relations</a>
             </li>
             <li>
-              <a href="https://ads.multividas.com" target="_blank"
-                >Advertising</a
-              >
+              <a href="https://ads.multividas.com" target="_blank">Advertising</a>
             </li>
             <li>
-              <a href="https://engineering.multividas.com" target="_blank"
-                >Engineering blog</a
-              >
+              <a href="https://engineering.multividas.com" target="_blank">Engineering blog</a>
             </li>
             <li>
-              <a href="https://developers.multividas.com" target="_blank"
-                >Developers documentation
+              <a href="https://developers.multividas.com" target="_blank">Developers documentation
               </a>
             </li>
           </ul>
@@ -79,9 +58,7 @@
               <a href="https://multividas.com/privacy-policy">Privacy Policy</a>
             </li>
             <li>
-              <a href="https://multividas.com/data-privacy-compliance"
-                >Data Privacy and Compliance</a
-              >
+              <a href="https://multividas.com/data-privacy-compliance">Data Privacy and Compliance</a>
             </li>
             <li>
               <a href="https://multividas.com/cookies">Cookies</a>
@@ -95,14 +72,9 @@
       <div class="row text-center my-2">
         <div class="col-md-12">
           <h5 class="social-icons-title mb-2 cp">Follow us</h5>
-          <ul
-            class="list-inline social-icons"
-          >
+          <ul class="list-inline social-icons">
             <li class="list-inline-item cp">
-              <a
-                href="https://www.facebook.com/multividasdotcom/"
-                target="_blank"
-              >
+              <a href="https://www.facebook.com/multividasdotcom/" target="_blank">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   width="16"
@@ -120,10 +92,7 @@
             </li>
 
             <li class="list-inline-item cp">
-              <a
-                href="https://www.instagram.com/multividasdotcom/"
-                target="_blank"
-              >
+              <a href="https://www.instagram.com/multividasdotcom/" target="_blank">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   width="16"
@@ -157,10 +126,7 @@
               </a>
             </li>
             <li class="list-inline-item cp">
-              <a
-                href="https://www.linkedin.com/company/multividas"
-                target="_blank"
-              >
+              <a href="https://www.linkedin.com/company/multividas" target="_blank">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   width="16"
