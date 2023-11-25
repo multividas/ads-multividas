@@ -7,11 +7,11 @@ import NavbarLayout from '~/layouts/Navbar.vue'
 
 export default function (Vue, { head }) {
   // Set Navbar Navbar as a global component
-  Vue.component('MainLayout', NavbarLayout)
+  Vue.component('NavbarLayout', NavbarLayout)
   // Set Footer Footer as a global component
   Vue.component('FooterLayout', FooterLayout)
   // Set Main Main as a global component
-  Vue.component('NavbarLayout', MainLayout)
+  Vue.component('MainLayout', MainLayout)
 
   // head links
   head.link.push(
