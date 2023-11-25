@@ -2,5 +2,5 @@
   NODE_VERSION = "18"
 
 [build]
-  publish = "dist"
+  publish = "/opt/build/repo/dist"
   command = "gridsome build"
