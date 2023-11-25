@@ -1,5 +1,9 @@
 module.exports = function (api) {
-  api.loadSource()
+  api.loadSource(() => {
+    //
+  })
 
-  api.createPages()
+  api.createPages(() => {
+    //
+  })
 }
