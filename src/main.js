@@ -58,7 +58,7 @@ export default function (Vue, { head }) {
     {
       name: 'description',
       content:
-        'Multividas.com is a social media and blogging platform where people can share their short texts and posts, leaving comments and have discussions on threads.'
+        'With Multividas.com you can share short texts and posts, leaving comments and having discussions on threads.'
     },
     {
       name: 'keywords',
@@ -80,7 +80,7 @@ export default function (Vue, { head }) {
     {
       property: 'og:description',
       content:
-        'Multividas.com is a social media and blogging platform where people can share their short texts and posts, leaving comments and have discussions on threads.'
+        'With Multividas.com you can share short texts and posts, leaving comments and having discussions on threads.'
     },
     {
       property: 'og:image',
@@ -113,7 +113,7 @@ export default function (Vue, { head }) {
     {
       name: 'twitter:description',
       content:
-        'Multividas.com is a social media and blogging platform where people can share their short texts and posts, leaving comments and have discussions on threads.'
+        'With Multividas.com you can share short texts and posts, leaving comments and having discussions on threads.'
     },
     {
       name: 'twitter:image',
