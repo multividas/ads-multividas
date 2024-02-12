@@ -104,7 +104,7 @@ export default function (Vue, { head }) {
     },
     {
       name: 'twitter:site',
-      content: '@multividaseng'
+      content: '@multividascom'
     },
     {
       name: 'twitter:title',
